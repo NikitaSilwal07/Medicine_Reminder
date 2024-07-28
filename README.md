@@ -1,6 +1,6 @@
 # medicine_reminder
 
-A new Flutter project.
+A new Flutter project app.
 
 ## Getting Started
 
